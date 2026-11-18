@@ -3,13 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psycocodes&label=Profile%20views&color=0e75b6&style=flat" alt="psycocodes" /> </p>
 
-- 🌱 I’m currently learning **NextJS**
-
-- 💬 Ask me about **Python, GameDev, Designing**
-
-- 📫 How to reach me **gmohikshit@gmail.com**
-
-- ⚡ Fun fact **I have a life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
